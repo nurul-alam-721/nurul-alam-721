@@ -1,7 +1,7 @@
 <div align="center">
   
-  <!-- Animated Typing Header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Nurul+Alam;Full-Stack+Developer+%7C+MERN+Expert;Crafting+Digital+Experiences" alt="Typing SVG" />
+  <!-- Animated Typing Header - Fixed Width -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Nurul+Alam;A Full-Stack+Developer+%7C+MERN+Expert;Crafting+Digital+Experiences" alt="Typing SVG" />
   
   <!-- Profile Views & Followers -->
   <div align="center" style="margin: 20px 0;">
@@ -119,21 +119,27 @@
 
 <br>
 
-<!-- Footer Quote -->
+<!-- Footer Section -->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1500&color=10B981&center=true&vCenter=true&width=600&lines=The+best+error+message+is+the+one+that+never+shows+up.;-+Thomas+Fuchs;Code+is+poetry+in+motion.;Let's+build+something+amazing+together!" alt="Quote" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1500&color=10B981&center=true&vCenter=true&width=680&lines=The+best+error+message+is+the+one+that+never+shows+up.;-+Thomas+Fuchs;Code+is+poetry+in+motion.;Let's+build+something+amazing+together!" alt="Quote" />
 
 <br>
 
 ### 🎯 Current Focus
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=16&pause=2000&color=EC4899&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Mastering+the+MERN+stack;Learning+DevOps+and+Cloud+technologies;Creating+impactful+digital+solutions" alt="Current Focus" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=14&pause=2000&color=EC4899&center=true&vCenter=true&width=680&lines=Building+scalable+web+applications;Mastering+the+MERN+stack;Learning+DevOps+and+Cloud+technologies;Creating+impactful+digital+solutions" alt="Current Focus" />
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer&animation=fadeIn" />
+<!-- Fixed Visitor Count with working badge -->
+### 👀 Profile Visitors
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=nurul-alam-721.nurul-alam-721&style=for-the-badge&color=6366F1)
 
-**✨ Thanks for visiting my profile! ✨**
+<br>
 
-<img src="https://profile-counter.glitch.me/nurul-alam-721/count.svg" alt="Visitor Count">
+**✨ Let's build something extraordinary together! ✨**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=80&section=footer&animation=fadeIn" />
 
 </div>
