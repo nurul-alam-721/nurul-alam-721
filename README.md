@@ -1,186 +1,139 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Nurul+Alam;A+Full-Stack+Developer+%7C+MERN+Expert;Crafting+Digital+Experiences" alt="Typing SVG" />
+  
+  <!-- Animated Typing Header -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Nurul+Alam;Full-Stack+Developer+%7C+MERN+Expert;Crafting+Digital+Experiences" alt="Typing SVG" />
+  
+  <!-- Profile Views & Followers -->
+  <div align="center" style="margin: 20px 0;">
+    <img src="https://komarev.com/ghpvc/?username=nurul-alam-721&label=Profile%20Views&color=6366F1&style=flat-square" alt="Profile Views">
+    <img src="https://img.shields.io/github/followers/nurul-alam-721?color=6366F1&style=flat-square" alt="Followers">
+  </div>
+
+  <!-- Location & Focus Badges -->
+  <div>
+    <img src="https://img.shields.io/badge/Location-Cox's%20Bazar%2C%20Bangladesh-6366F1?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location">
+    <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-10B981?style=for-the-badge&logo=code&logoColor=white" alt="Focus">
+    <img src="https://img.shields.io/badge/Stack-MERN-EC4899?style=for-the-badge&logo=react&logoColor=white" alt="Stack">
+  </div>
+
 </div>
 
-<h3 align="center">
-  <img src="https://img.shields.io/badge/Location-Cox's%20Bazar%2C%20Bangladesh-00D9FF?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location">
-  <br><br>
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-00D9FF?style=for-the-badge&logo=code&logoColor=white" alt="Focus">
-  <img src="https://img.shields.io/badge/Stack-MERN-00D9FF?style=for-the-badge&logo=react&logoColor=white" alt="Stack">
-</h3>
+<br>
 
----
+<!-- About Me Section -->
+## 🚀 About Me
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nurul-alam-721&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/nurul-alam-721?color=00D9FF&style=for-the-badge" alt="Followers">
+
+| 💼 Professional | 📝 Personal |
+|----------------|-------------|
+| 🔭 **Currently Building:** Scalable full-stack applications | 📧 **Email:** nurulalam0404@gmail.com |
+| 🌱 **Learning:** Advanced MERN patterns & DevOps | 📄 **Resume:** [View Here](https://my-resume-link.com) |
+| 💬 **Expertise:** JavaScript Ecosystem, React, Node.js | 💼 **Portfolio:** [Explore Projects](https://my-porfolio-link.com) |
+| 🎯 **Goal:** Create impactful digital solutions | 🌍 **Location:** Cox's Bazar, Bangladesh |
+
 </div>
 
----
+<br>
 
-### 🚀 About Me
+<!-- Tech Stack Section -->
+## 🛠️ Tech Stack
+
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <ul>
-          <li>🔭 <strong>Currently Building:</strong> Scalable full-stack applications</li>
-          <li>🌱 <strong>Learning:</strong> Advanced MERN patterns & DevOps</li>
-          <li>💬 <strong>Expertise:</strong> JavaScript Ecosystem, React, Node.js</li>
-          <li>🎯 <strong>Goal:</strong> Create impactful digital solutions</li>
-        </ul>
-      </td>
-      <td width="50%" valign="top">
-        <ul>
-          <li>📧 <strong>Email:</strong> nurulalam0404@gmail.com</li>
-          <li>📄 <strong>Resume:</strong> <a href="https://my-resume-link.com">View Here</a></li>
-          <li>💼 <strong>Portfolio:</strong> <a href="https://my-porfolio-link.com">Explore Projects</a></li>
-          <li>🌍 <strong>Location:</strong> Cox's Bazar, Bangladesh</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
+
+### Frontend Development
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
+  <img src="https://skillicons.dev/icons?i=react" title="React" width="50" height="50">
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="50" height="50">
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" width="50" height="50">
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" width="50" height="50">
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" width="50" height="50">
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" width="50" height="50">
+  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" width="50" height="50">
 </div>
 
----
-
-### 🛠️ Tech Stack
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" colspan="3"><h3>Frontend</h3></td>
-      <td align="center" colspan="3"><h3>Backend</h3></td>
-    </tr>
-    <tr>
-      <td align="center" width="80">
-        <a href="https://reactjs.org/" target="_blank">
-          <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-        </a>
-        <br>React
-      </td>
-      <td align="center" width="80">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-          <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-        </a>
-        <br>JavaScript
-      </td>
-      <td align="center" width="80">
-        <a href="https://www.typescriptlang.org/" target="_blank">
-          <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-        </a>
-        <br>TypeScript
-      </td>
-      <td align="center" width="80">
-        <a href="https://nodejs.org/" target="_blank">
-          <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-        </a>
-        <br>Node.js
-      </td>
-      <td align="center" width="80">
-        <a href="https://expressjs.com/" target="_blank">
-          <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-        </a>
-        <br>Express
-      </td>
-      <td align="center" width="80">
-        <a href="https://www.mongodb.com/" target="_blank">
-          <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-        </a>
-        <br>MongoDB
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="3"><h3>Design & Tools</h3></td>
-      <td align="center" colspan="3"><h3>DevOps & Other</h3></td>
-    </tr>
-    <tr>
-      <td align="center" width="80">
-        <a href="https://tailwindcss.com/" target="_blank">
-          <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-        </a>
-        <br>Tailwind
-      </td>
-      <td align="center" width="80">
-        <a href="https://www.figma.com/" target="_blank">
-          <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-        </a>
-        <br>Figma
-      </td>
-      <td align="center" width="80">
-        <a href="https://www.w3.org/html/" target="_blank">
-          <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-        </a>
-        <br>HTML5
-      </td>
-      <td align="center" width="80">
-        <a href="https://firebase.google.com/" target="_blank">
-          <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-        </a>
-        <br>Firebase
-      </td>
-      <td align="center" width="80">
-        <a href="https://www.postman.com/" target="_blank">
-          <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-        </a>
-        <br>Postman
-      </td>
-      <td align="center" width="80">
-        <a href="https://git-scm.com/" target="_blank">
-          <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-        </a>
-        <br>Git
-      </td>
-    </tr>
-  </table>
+### Backend Development
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" width="50" height="50">
+  <img src="https://skillicons.dev/icons?i=express" title="Express.js" width="50" height="50">
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" width="50" height="50">
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" width="50" height="50">
+  <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" width="50" height="50">
 </div>
 
----
-
-### 📊 GitHub Analytics
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nurul-alam-721&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nurul-alam-721&theme=merko&hide_border=true" alt="GitHub Streak" />
+### Tools & Platforms
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
+  <img src="https://skillicons.dev/icons?i=git" title="Git" width="50" height="50">
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" width="50" height="50">
+  <img src="https://skillicons.dev/icons?i=figma" title="Figma" width="50" height="50">
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman" width="50" height="50">
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" width="50" height="50">
+  <img src="https://skillicons.dev/icons?i=netlify" title="Netlify" width="50" height="50">
+  <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" width="50" height="50">
 </div>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurul-alam-721&layout=compact&theme=merko&hide_border=true" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=nurul-alam-721&theme=merko&hide_border=true" alt="Activity Graph" />
 </div>
 
+<br>
+
+<!-- GitHub Analytics -->
+## 📊 GitHub Analytics
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nurul-alam-721&theme=merko&no-frame=true&row=1&column=7" alt="Trophies" />
+
+<!-- Stats Cards -->
+<a href="https://github.com/nurul-alam-721">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nurul-alam-721&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=6366F1&icon_color=10B981&text_color=FFFFFF" alt="GitHub Stats">
+</a>
+<a href="https://github.com/nurul-alam-721">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nurul-alam-721&theme=radical&hide_border=true&background=0D1117&ring=6366F1&fire=10B981&currStreakLabel=6366F1" alt="GitHub Streak">
+</a>
+
+<!-- Languages & Activity -->
+<a href="https://github.com/nurul-alam-721">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurul-alam-721&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Top Languages">
+</a>
+<a href="https://github.com/nurul-alam-721">
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=nurul-alam-721&theme=react-dark&bg_color=0D1117&hide_border=true&color=6366F1&line=10B981&point=EC4899" alt="Activity Graph">
+</a>
+
+<!-- Trophy -->
+<img src="https://github-profile-trophy.vercel.app/?username=nurul-alam-721&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies">
+
 </div>
 
----
+<br>
 
-### 🌐 Connect With Me
+<!-- Connect Section -->
+## 🌐 Let's Connect
+
 <div align="center">
-  <a href="https://twitter.com/nurulalam0404" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://www.facebook.com/nurul.alam.480550" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
-  <a href="https://linkedin.com/in/nurul-alam" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/nurul-alam-721" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/nurulalam0404)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nurul-alam)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/nurul.alam.480550)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nurulalam0404@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nurul-alam-721)
+
 </div>
 
----
+<br>
 
+<!-- Footer Quote -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=The+best+error+message+is+the+one+that+never+shows+up.;-+Thomas+Fuchs" alt="Quote" />
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1500&color=10B981&center=true&vCenter=true&width=600&lines=The+best+error+message+is+the+one+that+never+shows+up.;-+Thomas+Fuchs;Code+is+poetry+in+motion.;Let's+build+something+amazing+together!" alt="Quote" />
 
-<div align="center">
-  <i>✨ Let's build something extraordinary together! ✨</i>
-  <br><br>
-  <img src="https://profile-counter.glitch.me/nurul-alam-721/count.svg" alt="Visitor Count">
-</div>
+<br>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" />
+### 🎯 Current Focus
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=16&pause=2000&color=EC4899&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Mastering+the+MERN+stack;Learning+DevOps+and+Cloud+technologies;Creating+impactful+digital+solutions" alt="Current Focus" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer&animation=fadeIn" />
+
+**✨ Thanks for visiting my profile! ✨**
+
+<img src="https://profile-counter.glitch.me/nurul-alam-721/count.svg" alt="Visitor Count">
+
 </div>
