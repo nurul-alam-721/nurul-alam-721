@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Nurul+Alam;Full-Stack+Web+Developer" alt="Typing SVG" />
+**<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Nurul+Alam;A+Full-Stack+Web+Developer" alt="Typing SVG" />
 </div>
 
 <h3 align="center">
@@ -124,3 +124,4 @@
 <div align="center">
   <i>Let's build something amazing together! 💻✨</i>
 </div>
+**
